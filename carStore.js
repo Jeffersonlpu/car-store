@@ -90,7 +90,7 @@ if (getDayOfWeek === 1) {
       );
     } else {
       console.log(`
-        ${firstName} optou por não receber comunicações`);
+        ${email} optou por não receber comunicações`);
     }
   });
 } else {
